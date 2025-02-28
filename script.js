@@ -1,0 +1,1 @@
+console.log("FiveM Mod Menu is active!");
